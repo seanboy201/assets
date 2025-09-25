@@ -1,0 +1,11 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "USDT is a stablecoin pegged to the US Dollar, deployed as part of a tactical cockpit mission to build liquidity, legitimacy, and generational legacy. This token powers a decentralized command center designed to feed families, fund operations, and prove real value through verified swaps and branded trust.",
+  "website": "https://your-mission-site.com",
+  "explorer": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955",
+  "status": "active",
+  "id": "usdt-cockpit"
+}
